@@ -1,0 +1,9 @@
+# Kata: Reversed String
+
+## Worked with Kevin on this kata.  URL link: https://www.codewars.com/kata/reversed-strings
+
+## Complete the solution so that it reverses the string value passed into it.
+
+## Example:  solution('world'); // returns 'dlrow'
+
+## link to kata solution: https://www.codewars.com/kata/5168bb5dfe9a00b126000018/solutions/javascript
